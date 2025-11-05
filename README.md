@@ -2,7 +2,7 @@
 
 ### 🎓 Estudiante | Diseño UI/UX y Desarrollo Full Stack
 
-Estudiante de **Ingeniería en Desarrollo y Gestión de Software**. Mi enfoque profesional combina el desarrollo de aplicaciones robustas con la creación de **experiencias de usuario excepcionales (UI/UX)**. Busco una oportunidad de estadía profesional donde pueda aplicar mis conocimientos en desarrollo y diseño.
+Estudiante de **Ingeniería en Desarrollo y Gestión de Software**. Mi enfoque profesional combina el desarrollo de aplicaciones robustas con la creación de **experiencias de usuario excepcionales (UI/UX)**.
 
 ---
 
