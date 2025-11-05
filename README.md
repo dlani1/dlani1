@@ -1,4 +1,4 @@
-# 🌟 Hola, soy [Daniela López Amézquita]
+# 🌟 Hola, soy Daniela López Amézquita.
 
 ### 🎓 Estudiante de Último Cuatrimestre | Buscando Estadía en Diseño UI/UX y Desarrollo Full Stack
 
