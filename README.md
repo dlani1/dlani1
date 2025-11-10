@@ -28,7 +28,7 @@ Estos proyectos demuestran mi capacidad para crear soluciones completas, desde e
 > **Aplicación de escritorio** desarrollada con **.NET MAUI** en C#, enfocada en la gestión o personalización de inventarios. Demuestra mi habilidad para crear **soluciones robustas multiplataforma** con interfaces diseñadas para la eficiencia.
 
 * **Tecnologías:** `.NET MAUI`, `C#`, `XAML`, `Diseño UX/UI`.
-* **https://www.linkedin.com/in/daniela-lopez-2a562a273/** (Asegúrate de fijar este repositorio en tu perfil)
+* **https://www.linkedin.com/in/daniela-lopez-2a562a273/** 
 
 ### 2️⃣ Terranova: Clínica Veterinaria (Sitio Web)
 
