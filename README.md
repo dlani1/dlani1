@@ -41,4 +41,3 @@ Estos proyectos demuestran mi capacidad para crear soluciones completas, desde e
 Estoy activamente buscando mi estadía profesional y me encantaría conectar.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniela-lopez-2a562a273) 
-[![Portafolio](https://dani-lpez-portafolio.netlify.app/#proyectos) 
