@@ -39,16 +39,9 @@ Estos proyectos demuestran mi capacidad para crear soluciones completas, desde e
 
 ---
 
-## 📈 Mi Actividad en GitHub (Opcional - Añadir Estadísticas Dinámicas)
-
-Puedes usar herramientas como `GitHub Readme Stats` para incluir gráficos dinámicos que se actualizan solos. *Reemplaza `TU_USERNAME` con tu nombre de usuario.*
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📧 Contacto
 
 Estoy activamente buscando mi estadía profesional y me encantaría conectar.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniela-lopez-2a562a273)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniela-lopez-2a562a273) 
+[![Portafolio](https://dani-lpez-portafolio.netlify.app/#proyectos) 
