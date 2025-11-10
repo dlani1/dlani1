@@ -34,9 +34,6 @@ Estos proyectos demuestran mi capacidad para crear soluciones completas, desde e
 
 > **Plataforma web** completa para una clínica veterinaria, que incluye funcionalidades clave como: **gestión de citas**, **historiales médicos** y **perfiles detallados de mascotas**. Implementado con React para una interfaz dinámica.
 
-* **Tecnologías:** `React`, `Tailwind CSS`, `[Menciona Backend si lo tiene]`, `[Menciona Base de Datos]`.
-* **[Link al Repositorio]** | **[Link a la Demo/Live App - Opcional]**
-
 ---
 
 ## 📧 Contacto
