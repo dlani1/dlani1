@@ -15,13 +15,14 @@ Mis habilidades se centran en el desarrollo multiplataforma y web, poniendo énf
 | **Diseño/UX** | **Figma** $\cdot$ Prototipado $\cdot$ Diseño de Interfaz |  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 | **Frontend Web** | **React** $\cdot$ **Tailwind CSS** $\cdot$ HTML5 $\cdot$ CSS3 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) |
 | **Backend/Core** | **Java** $\cdot$ C# $\cdot$ .NET MAUI $\cdot$ APIs REST | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=.net&logoColor=white) |
-| **Bases de Datos**| SQL $\cdot$ [Menciona BD Específica si usas una] | ![SQL](https://img.shields.io/badge/SQL-4479A5?style=flat&logo=mysql&logoColor=white) |
+| **Bases de Datos**| SQL $\cdot$ | ![SQL](https://img.shields.io/badge/SQL-4479A5?style=flat&logo=mysql&logoColor=white) |
 
 ---
 
 ## ⭐️ Proyectos Destacados (Mi Portafolio)
 
 Estos proyectos demuestran mi capacidad para crear soluciones completas, desde el diseño (UI/UX) hasta el desarrollo funcional.
+https://dani-lpez-portafolio.netlify.app/#proyectos
 
 ### 1️⃣ Custom Buy (Aplicación de Escritorio)
 
